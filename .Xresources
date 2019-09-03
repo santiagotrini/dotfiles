@@ -1,0 +1,9 @@
+URxvt.scrollBar: false
+URxvt.font: xft:Hack:size=16,xft:FontAwesome:size=16
+
+URxvt.perl-ext-common: resize-font
+
+URxvt.letterSpace: -1
+
+! URxvt.transparent:   true
+! URxvt.shading:       20
